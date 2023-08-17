@@ -8,10 +8,10 @@ jobs:
         run: echo "Welcome to Github Runner"
         
       - name: step2 
-        run: echo "Bye from Github Runner"
+        run: ls
 
       - name: step3
-        run: echo "Github is Very powerfull tool"
+        run: pwd
 
       - name: step4
         run: echo "Github is used to store and process"
