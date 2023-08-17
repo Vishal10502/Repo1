@@ -14,4 +14,4 @@ jobs:
         run: pwd
 
       - name: step4
-        run: echo "Github is used to store and process"
+        run: date
